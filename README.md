@@ -1,5 +1,5 @@
 # lab_robot_ws
-this project use ros distro is humble.
+this project use ros2 distro is humble.
 # Getting started
 1.Clone the repo:
 ```
